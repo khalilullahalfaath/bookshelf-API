@@ -62,7 +62,7 @@ Here are some examples of how to use the Bookshelf API:
   }
   ```
   
-  - To retrieve all books:
+- To retrieve all books:
   ```
   GET /books
   ```
